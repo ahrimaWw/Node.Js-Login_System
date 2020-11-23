@@ -1,0 +1,8 @@
+This log contains the "npm" package that was used to build this loginserver.
+By:Lucas Bonassa (Ahrima)
+
+$ npm i express ejs
+$ npm i --save-dev nodemon dotenv
+$ npm i bcrypt
+$ npm i passport passport-local express-session express-flash
+$ npm i method-override
